@@ -1,0 +1,8 @@
+{
+  "name": "AgroPulse AI",
+  "description": "An all-in-one AI-driven agricultural suite for crop recommendations, disease detection, market analysis, and pest prevention.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
